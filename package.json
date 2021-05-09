@@ -1,5 +1,5 @@
 {
-  "name": "randymbot",
+  "name": "StreamSell_Bot",
   "version": "1.0.0",
   "description": "Telegram giveaway bot",
   "main": "dist/app.js",
@@ -12,7 +12,7 @@
     "upload-translations": "node scripts/upload.js",
     "download-translations": "node scripts/download.js && yarn prettier --single-quote --no-semi --write ./src/helpers/locale.ts"
   },
-  "repository": "https://github.com/backmeupplz/randymbot.git",
+  "repository": "https://github.com/Bicho1502/Telegram_Bot_Sorteos.git",
   "author": "backmeupplz <backmeupplz@gmail.com>",
   "license": "MIT",
   "dependencies": {
