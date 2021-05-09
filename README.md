@@ -19,7 +19,7 @@ Este es el código del bot de Telegram para la rifa que he creado. ¡Disfruta y 
 Además, por favor, considere mirar `.env.sample`.
 
 # Integración continua
-Cualquier confirmación enviada al maestro se implementa en @Para_Probar_Bot a través de [CI Ninja](https://github.com/backmeupplz/ci-ninja).
+Cualquier confirmación enviada al maestro se implementa en @StreamSell_Bot a través de [CI Ninja](https://github.com/backmeupplz/ci-ninja).
 
 # Licencia
 Utilícelo para cualquier propósito. Sería genial si pudiera dejar una nota sobre los desarrolladores originales. ¡Gracias!
