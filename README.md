@@ -1,6 +1,6 @@
-[![@Para_Probar_Bot](/img/ruleta.jpg?raw=true)](https://t.me/Para_Probar_Bot)
+[![@StreamSell_Bot](/img/ruleta.jpg?raw=true)](https://t.me/StreamSell_Bot)
 
-# [@Para_Probar_Bot](https://t.me/Para_Probar_Bot) Código de bot de Telegram
+# [@StreamSell_Bot](https://t.me/StreamSell_Bot) Código de bot de Telegram
 Este es el código del bot de Telegram para la rifa que he creado. ¡Disfruta y siéntete libre de reutilizar!
 # Instalación y lanzamiento local
 1. Clona este repositorio: `git clone https://github.com/Telegram_Bot_Sorteos`
