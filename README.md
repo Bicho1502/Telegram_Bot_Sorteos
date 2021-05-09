@@ -1,26 +1,25 @@
-[![@randymbot](/img/logo.png?raw=true)](https://t.me/randymbot)
+[![@Para_Probar_Bot](/img/ruleta.jpg?raw=true)](https://t.me/Para_Probar_Bot)
 
-# [@randymbot](https://t.me/randymbot) Telegram bot code
-This is the code for the raffle Telegram bot I've built. Enjoy and feel free to reuse!
+# [@Para_Probar_Bot](https://t.me/Para_Probar_Bot) Código de bot de Telegram
+Este es el código del bot de Telegram para la rifa que he creado. ¡Disfruta y siéntete libre de reutilizar!
+# Instalación y lanzamiento local
+1. Clona este repositorio: `git clone https://github.com/Telegram_Bot_Sorteos`
+2. Inicie la [base de datos de mongo](https://www.mongodb.com/) localmente
+3. Cree `.env` con las variables de entorno que se enumeran a continuación
+4. Ejecutar `yarn install` en la carpeta raíz
+5. Ejecutar `yarn distribute`
 
-# Installation and local launch
-1. Clone this repo: `git clone https://github.com/backmeupplz/randymbot`
-2. Launch the [mongo database](https://www.mongodb.com/) locally
-3. Create `.env` with the environment variables listed below
-4. Run `yarn install` in the root folder
-5. Run `yarn distribute`
+¡Y deberías estar listo para comenzar! Siéntase libre de bifurcar y enviar solicitudes de extracción. ¡Gracias!
 
-And you should be good to go! Feel free to fork and submit pull requests. Thanks!
+# Variables de entorno
+* `TOKEN` - Token de bot de Telegram
+* `USERNAME` - Nombre de usuario del bot de Telegram
+* `MONGO` - URL de la base de datos mongo
 
-# Environment variables
-* `TOKEN` — Telegram bot token
-* `USERNAME` — Telegram bot username
-* `MONGO`— URL of the mongo database
+Además, por favor, considere mirar `.env.sample`.
 
-Also, please, consider looking at `.env.sample`.
+# Integración continua
+Cualquier confirmación enviada al maestro se implementa en @Para_Probar_Bot a través de [CI Ninja](https://github.com/backmeupplz/ci-ninja).
 
-# Continuous integration
-Any commit pushed to master gets deployed to @randymbot via [CI Ninja](https://github.com/backmeupplz/ci-ninja).
-
-# License
-MIT — use for any purpose. Would be great if you could leave a note about the original developers. Thanks!
+# Licencia
+Utilícelo para cualquier propósito. Sería genial si pudiera dejar una nota sobre los desarrolladores originales. ¡Gracias!
