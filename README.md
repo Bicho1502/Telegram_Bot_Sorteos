@@ -3,7 +3,7 @@
 # [@StreamSell_Bot](https://t.me/StreamSell_Bot) Código de bot de Telegram
 Este es el código del bot de Telegram para la rifa que he creado. ¡Disfruta y siéntete libre de reutilizar!
 # Instalación y lanzamiento local
-1. Clona este repositorio: `git clone https://github.com/Telegram_Bot_Sorteos`
+1. Clona este repositorio: `git clone https://github.com/Bicho1502/Telegram_Bot_Sorteos`
 2. Inicie la [base de datos de mongo](https://www.mongodb.com/) localmente
 3. Cree `.env` con las variables de entorno que se enumeran a continuación
 4. Ejecutar `yarn install` en la carpeta raíz
